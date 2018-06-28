@@ -14,9 +14,9 @@ Activity Name : More on PHP Basics <br>
 
 
 
-<a href="Section A/index.html">Link to Section A </a>
+<a href="Section A/index.php">Link to Section A </a>
 <br>
-<a href="Section B/index.html">Link to Section B </a>
+<a href="Section B/index.php">Link to Section B </a>
 <br>
 <a href="Section C/index.html">Link to Section C </a>
 <br>
