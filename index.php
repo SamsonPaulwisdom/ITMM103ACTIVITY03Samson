@@ -7,11 +7,6 @@
 <p>
 
 
-<?php
-
-echo " ";
-
-?>
 Activity Name : More on PHP Basics <br>
 Name : Paul Wisdom C. Samson <br>
 Course Title: Advance Web Develop , Second Year <br>
