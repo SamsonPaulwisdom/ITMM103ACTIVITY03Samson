@@ -18,19 +18,19 @@ Activity Name : More on PHP Basics <br>
 <br>
 <a href="Section B/index.php">Link to Section B </a>
 <br>
-<a href="Section C/index.html">Link to Section C </a>
+<a href="Section C/index.php">Link to Section C </a>
 <br>
-<a href="Section D/index.html">Link to Section D </a>
+<a href="Section D/index.php">Link to Section D </a>
 <br>
-<a href="Section E/index.html">Link to Section E </a>
+<a href="Section E/index.php">Link to Section E </a>
 <br>
-<a href="Section F/index.html">Link to Section F </a>
+<a href="Section F/index.php">Link to Section F </a>
 <br>
-<a href="Section G/index.html">Link to Section G </a>
+<a href="Section G/index.php">Link to Section G </a>
 <br>
-<a href="Section H/index.html">Link to Section H </a>
+<a href="Section H/index.php">Link to Section H </a>
 <br>
-<a href="Section I/index.html">Link to Section I </a>
+<a href="Section I/index.php">Link to Section I </a>
 <br>
 
 
